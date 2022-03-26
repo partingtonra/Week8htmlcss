@@ -1,0 +1,73 @@
+body {
+    background-color: palevioletred;
+}
+
+h1 {
+    color:rebeccapurple; 
+    text-align: center; 
+}
+
+div {
+    background-color: seashell;
+    border-style: solid;
+    border-color: teal;
+    border-width: 12px;   
+    height: 30px;
+    text-align: center; 
+}
+
+h2 {
+    text-align:  center;
+}
+
+h3 {
+    text-align: center;
+}
+
+h4 {
+    font-style: italic;
+    font-size: 18px;
+}
+
+.shadow-text {
+    text-shadow: aqua 1px 1px;
+}
+
+#large-paragraph {
+    font-size: 45px;
+}
+
+img {
+    float: inline-end;
+}
+
+form {
+    background-color: lavenderblush;
+}
+
+.every-odd li:nth-child(odd) {
+    background-color: plum;
+}
+
+table {
+    border-collapse: collapse;
+    width: 75%;
+}
+
+th, td {
+    padding: 18px;
+    text-align: left;
+    border-bottom: 3px solid purple;
+}
+
+tr:nth-child(even) {
+    background-color: paleturquoise;
+}
+
+tr:hover {
+    background-color: pink;
+}
+
+.show-link {
+    background-color: salmon;
+}
